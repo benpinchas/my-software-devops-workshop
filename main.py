@@ -1,5 +1,5 @@
-def welcome(): # comming from new-button branch
+def welcome(): # coming from new-button branch
    print("New Screen")
    
-def click(): # comming from new-screen branch
+def click(): # coming from new-screen branch
    print("Click")
